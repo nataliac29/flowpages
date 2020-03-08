@@ -1,0 +1,22 @@
+{
+  "name": "flowpages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliac29/flowpages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nataliac29/flowpages/issues"
+  },
+  "homepage": "https://github.com/nataliac29/flowpages#readme",
+  "dependencies": {
+    "firebase": "^7.10.0"
+  }
+}
